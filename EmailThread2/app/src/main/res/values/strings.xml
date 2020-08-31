@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmailThread</string>
+    <string name="from">From: </string>
+    <string name="dest">Dest: </string>
+    <string name="subject">Subject: </string>
+</resources>
+
